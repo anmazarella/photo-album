@@ -1,9 +1,8 @@
 html {
   background-color: #3A4D39;
-  max-width: 269px;
   margin: auto;
   padding: 10px;
-
+  text-align: center;
 }
 
 .header {
@@ -11,6 +10,7 @@ html {
   text-align: center;
   background: #739072;
   border-radius: 10px;
+  max-width: 780px;
 }
 
 .header h3 {
@@ -22,6 +22,9 @@ html {
 .header h1 {
   margin-top: 5px;
   padding-bottom: 5px;
+}
+.pictures {
+  max-width: 780px;
 }
 
 .links p {
