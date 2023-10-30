@@ -1,6 +1,6 @@
 html {
   background-color: #3A4D39;
-  max-width: 810px;
+  max-width: 800px;
   margin: auto;
   padding: 10px;
 
@@ -44,6 +44,5 @@ html {
 
   border: 3px solid #739072;
   border-radius: 10px;
-  margin: 1.67px;
 }
 
