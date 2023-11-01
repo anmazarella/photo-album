@@ -4,38 +4,48 @@ html {
   padding: 10px;
   text-align: center;
 }
+
 .header {
   font-family: 'Oswald', sans-serif;
   text-align: center;
   background: #739072;
   border-radius: 10px;
-  max-width: 780px;
 }
+
 .header h3 {
   font-size: 20px;
   margin-bottom: 0;
   display: inline;
 }
+
 .header h1 {
   margin-top: 5px;
   padding-bottom: 5px;
 }
-.pictures {
-  max-width: 780px;
-}
+
 .links p {
   display: inline;
 }
+
 .links a:link {
   color: #3A4D39;
   font-size: 20px;
+
 }
+
 .links a:visited {
   color: #4F6F52;
 }
+
 .pictures img{
   height: 250px;
   width: 250px;
+  
   border: 3px solid #739072;
   border-radius: 10px;
+}
+
+.content {
+  max-width:780px;
+  margin: auto;
 }
